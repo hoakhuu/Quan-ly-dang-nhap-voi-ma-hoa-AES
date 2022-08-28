@@ -1,0 +1,24 @@
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\AES_File.Form1.resources
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\AES_File.Form2.resources
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.Cache
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\DOAN.csprojResolveAssemblyReference.cache
+C:\Users\SONTIEN\documents\visual studio 2012\Projects\DOAN\DOAN\obj\Debug\AES_File.Form4.resources
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\AES_File.Form1.resources
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\AES_File.Form2.resources
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\AES_File.Form4.resources
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\admin\Downloads\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\admin\Downloads\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\admin\Downloads\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\admin\Downloads\DOAN\DOAN\bin\Debug\DOAN.pdb
